@@ -44,17 +44,3 @@ This work involves a combination of:
 - Interdisciplinary collaboration with biomechanics and healthcare  
 
 ---
-
-## Publications
-
-(See the **Publications** section for a full list.)
-
----
-
-## Projects
-
-More details about my ongoing and past projects can be found in the **Portfolio** section.
-
----
-
-> *Advancing soft robotics for human-centered rehabilitation.*
